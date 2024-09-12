@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Ziya and I am currently a Data Science student at the University of Virginia.
+
 <!--
 **ziyajasani/ziyajasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
